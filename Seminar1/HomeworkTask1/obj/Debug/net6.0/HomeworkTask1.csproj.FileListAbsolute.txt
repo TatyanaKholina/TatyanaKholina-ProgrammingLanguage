@@ -1,0 +1,15 @@
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\obj\Debug\net6.0\HomeworkTask1.csproj.AssemblyReference.cache
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\obj\Debug\net6.0\HomeworkTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\obj\Debug\net6.0\HomeworkTask1.AssemblyInfoInputs.cache
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\obj\Debug\net6.0\HomeworkTask1.AssemblyInfo.cs
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\obj\Debug\net6.0\HomeworkTask1.csproj.CoreCompileInputs.cache
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\bin\Debug\net6.0\HomeworkTask1.exe
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\bin\Debug\net6.0\HomeworkTask1.deps.json
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\bin\Debug\net6.0\HomeworkTask1.runtimeconfig.json
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\bin\Debug\net6.0\HomeworkTask1.dll
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\bin\Debug\net6.0\HomeworkTask1.pdb
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\obj\Debug\net6.0\HomeworkTask1.dll
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\obj\Debug\net6.0\refint\HomeworkTask1.dll
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\obj\Debug\net6.0\HomeworkTask1.pdb
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\obj\Debug\net6.0\HomeworkTask1.genruntimeconfig.cache
+C:\Git\ProgrammLanguageSeminar\Seminar1\HomeworkTask1\obj\Debug\net6.0\ref\HomeworkTask1.dll
